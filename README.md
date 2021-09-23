@@ -1,7 +1,7 @@
 
   # **React Portfolio**
 
-https://bcannon88.github.io/React-Portfolio/
+https://bcannon88.github.io/Portfolio-React/
   <img src="https://img.shields.io/badge/MIT--blue" alt="badge with license name"/>
 
   ## Description
